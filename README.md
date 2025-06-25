@@ -41,7 +41,7 @@ A comprehensive AI Safety Toolkit with bias detection, fairness evaluation, and 
 - seaborn
 - matplotlib
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository:**
 ```bash
