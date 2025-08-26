@@ -3,7 +3,11 @@ scikit-learn
 pandas
 numpy
 plotly
-LIME
-SHAP
+lime
+shap
 seaborn
 matplotlib
+langchain
+langchain-anthropic
+openai
+python-dotenv
